@@ -1,1 +1,3 @@
 # Observadoreconomico03--Blockchain-y-su-impacto-en-las-finanzas
+La tecnología blockchain ha revolucionado el panorama financiero, brindando seguridad, transparencia y acceso global a las transacciones. Este sistema, que elimina intermediarios, ofrece una solución descentralizada donde la validación de los datos es más segura. Desde la inclusión de quienes no forman parte del sistema bancario hasta la reducción de costos en las operaciones, blockchain está redefiniendo las finanzas globales y abriendo nuevas oportunidades de negocio.
+https://observadoreconomico.com/como-la-tecnologia-blockchain-esta-transformando-las-finanzas-globales/
